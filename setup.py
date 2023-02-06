@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="qamlzim",
+    name="qamlz",
     version="1.0.0",
     description="Binary Classifier trained with D-Wave's Quantum Annealers.",
-    packages=find_packages(include=["qamlzim"]),
+    packages=find_packages(include=["qamlz"]),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
@@ -29,5 +29,5 @@ setup(
     },
     url="https://github.com/tcoulvert/qaml-z",
     author="Thomas Sievert",
-    author_email="tcsievert@gmail.com",
+    author_email="63161166+tcoulvert@users.noreply.github.com",
 )
