@@ -1,5 +1,5 @@
 # QAML-Z
-*IMPORTANT* This package is no longer being supported, instead use qamlzim. 
+*warning* This package is no longer being supported, instead use qamlzim. 
 
 This is a supervised ML algorithm used to train a Binary Classifier on D-Wave's Quantum Annealers. The library has been set up to be compatible with Scikit-Learn's data representation. The algortihm is intended to be generalizable to any Binary ML problem.
 
